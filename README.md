@@ -1,4 +1,4 @@
 # Political_Party_Predictor
  
-This class learns a decision tree to predict the political party of members of the
+A peer and I created this class to learn a decision tree that predicts the political party of members of the
 house of representatives given voting records. 
